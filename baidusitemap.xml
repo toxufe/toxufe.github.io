@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>http://yoursite.com/20161002/cnzz-set/</loc>
+    <lastmod>2016-10-02T13:00:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo博客主题nexT，Cnzz数据统计设置记录</title>
+        <pubTime>2016-10-02T09:42:55.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Study</tag>
+         
+        <tag>Cnzz</tag>
+         
+        <tag>nexT</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
+          
+             
+              <breadCrumb title="Cnzz" url="http://yoursite.com/categories/Study/Cnzz/"/>
+          
+             
+              <breadCrumb title="Hexo" url="http://yoursite.com/categories/Study/Cnzz/Hexo/"/>
+          
+             
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/20161002/hello-world/</loc>
+    <lastmod>2016-10-02T12:58:52.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo study</title>
+        <pubTime>2016-10-02T04:39:16.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Study</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
+          
+             
+              <breadCrumb title="Hexo" url="http://yoursite.com/categories/Study/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>
