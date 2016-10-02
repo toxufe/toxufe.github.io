@@ -11,9 +11,9 @@
         <title>给hexo博客,next主题,文章添加字数和阅读时长</title>
         <pubTime>2016-10-02T16:58:33.000Z</pubTime>
         
-        <tag>Study</tag>
-         
         <tag>Hexo</tag>
+         
+        <tag>Study</tag>
          
         <tag>添加文章字数</tag>
          
@@ -40,9 +40,9 @@
         <title>设置hexo博客文章短链接，有利于搜索引擎优化</title>
         <pubTime>2016-10-02T15:30:59.000Z</pubTime>
         
-        <tag>Study</tag>
-         
         <tag>Hexo</tag>
+         
+        <tag>Study</tag>
          
         <tag>Seo</tag>
          
@@ -55,6 +55,35 @@
           
              
               <breadCrumb title="短连接" url="https://toxufe.github.io/categories/Study/%E7%9F%AD%E8%BF%9E%E6%8E%A5/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://toxufe.github.io/posts/5005/</loc>
+    <lastmod>2016-10-02T15:25:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo博客主题nexT，Cnzz数据统计设置记录</title>
+        <pubTime>2016-10-02T09:42:55.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Study</tag>
+         
+        <tag>Cnzz</tag>
+         
+        <tag>nexT</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
+          
+             
+              <breadCrumb title="Cnzz" url="https://toxufe.github.io/categories/Study/Cnzz/"/>
           
         </display>
     </data>
@@ -87,35 +116,6 @@
 
     
   <url>
-    <loc>https://toxufe.github.io/posts/5005/</loc>
-    <lastmod>2016-10-02T15:25:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo博客主题nexT，Cnzz数据统计设置记录</title>
-        <pubTime>2016-10-02T09:42:55.000Z</pubTime>
-        
-        <tag>Study</tag>
-         
-        <tag>Hexo</tag>
-         
-        <tag>Cnzz</tag>
-         
-        <tag>nexT</tag>
-         
-         
-           
-             
-              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
-          
-             
-              <breadCrumb title="Cnzz" url="https://toxufe.github.io/categories/Study/Cnzz/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://toxufe.github.io/posts/19310/</loc>
     <lastmod>2016-10-02T15:25:21.000Z</lastmod>
     <data>
@@ -123,9 +123,9 @@
         <title>Hexo study</title>
         <pubTime>2016-10-02T04:39:16.000Z</pubTime>
         
-        <tag>Study</tag>
-         
         <tag>Hexo</tag>
+         
+        <tag>Study</tag>
          
          
            
