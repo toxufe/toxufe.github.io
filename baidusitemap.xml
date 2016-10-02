@@ -3,6 +3,46 @@
 
 
     
+  <url>
+    <loc>https://toxufe.github.io/20161002/add-sitemap/</loc>
+    <lastmod>2016-10-02T13:36:43.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo博客如何添加百度sitemap</title>
+        <pubTime>2016-10-02T13:28:15.000Z</pubTime>
+        
+        <tag>Study</tag>
+         
+        <tag>Sitemap</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
+          
+             
+              <breadCrumb title="Sitemap" url="https://toxufe.github.io/categories/Study/Sitemap/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://toxufe.github.io/20161002/add-sitemap-1/</loc>
+    <lastmod>2016-10-02T13:36:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>add-sitemap</title>
+        <pubTime>2016-10-02T13:36:08.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>https://toxufe.github.io/20161002/cnzz-set/</loc>
@@ -12,9 +52,9 @@
         <title>Hexo博客主题nexT，Cnzz数据统计设置记录</title>
         <pubTime>2016-10-02T09:42:55.000Z</pubTime>
         
-        <tag>Hexo</tag>
-         
         <tag>Study</tag>
+         
+        <tag>Hexo</tag>
          
         <tag>Cnzz</tag>
          
@@ -45,9 +85,9 @@
         <title>Hexo study</title>
         <pubTime>2016-10-02T04:39:16.000Z</pubTime>
         
-        <tag>Hexo</tag>
-         
         <tag>Study</tag>
+         
+        <tag>Hexo</tag>
          
          
            
