@@ -4,6 +4,35 @@
 
     
   <url>
+    <loc>https://toxufe.github.io/posts/41943/</loc>
+    <lastmod>2016-10-02T17:10:16.000Z</lastmod>
+    <data>
+        <display>
+        <title>给hexo博客,next主题,文章添加字数和阅读时长</title>
+        <pubTime>2016-10-02T16:58:33.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Study</tag>
+         
+        <tag>添加文章字数</tag>
+         
+        <tag>添加文章阅读时长</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
+          
+             
+              <breadCrumb title="nexT" url="https://toxufe.github.io/categories/Study/nexT/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://toxufe.github.io/posts/21445/</loc>
     <lastmod>2016-10-02T15:42:37.000Z</lastmod>
     <data>
@@ -26,31 +55,6 @@
           
              
               <breadCrumb title="短连接" url="https://toxufe.github.io/categories/Study/%E7%9F%AD%E8%BF%9E%E6%8E%A5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://toxufe.github.io/posts/19310/</loc>
-    <lastmod>2016-10-02T15:25:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo study</title>
-        <pubTime>2016-10-02T04:39:16.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>Study</tag>
-         
-         
-           
-             
-              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
-          
-             
-              <breadCrumb title="Hexo" url="https://toxufe.github.io/categories/Study/Hexo/"/>
           
         </display>
     </data>
@@ -105,6 +109,31 @@
           
              
               <breadCrumb title="Sitemap" url="https://toxufe.github.io/categories/Study/Sitemap/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://toxufe.github.io/posts/19310/</loc>
+    <lastmod>2016-10-02T15:25:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo study</title>
+        <pubTime>2016-10-02T04:39:16.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Study</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
+          
+             
+              <breadCrumb title="Hexo" url="https://toxufe.github.io/categories/Study/Hexo/"/>
           
         </display>
     </data>
