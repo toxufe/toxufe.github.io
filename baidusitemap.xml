@@ -62,20 +62,16 @@
 
     
   <url>
-    <loc>https://toxufe.github.io/posts/5005/</loc>
+    <loc>https://toxufe.github.io/posts/19310/</loc>
     <lastmod>2016-10-02T15:25:21.000Z</lastmod>
     <data>
         <display>
-        <title>Hexo博客主题nexT，Cnzz数据统计设置记录</title>
-        <pubTime>2016-10-02T09:42:55.000Z</pubTime>
+        <title>Hexo study</title>
+        <pubTime>2016-10-02T04:39:16.000Z</pubTime>
         
         <tag>Hexo</tag>
          
         <tag>Study</tag>
-         
-        <tag>Cnzz</tag>
-         
-        <tag>nexT</tag>
          
          
            
@@ -83,7 +79,7 @@
               <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
           
              
-              <breadCrumb title="Cnzz" url="https://toxufe.github.io/categories/Study/Cnzz/"/>
+              <breadCrumb title="Hexo" url="https://toxufe.github.io/categories/Study/Hexo/"/>
           
         </display>
     </data>
@@ -116,16 +112,20 @@
 
     
   <url>
-    <loc>https://toxufe.github.io/posts/19310/</loc>
+    <loc>https://toxufe.github.io/posts/5005/</loc>
     <lastmod>2016-10-02T15:25:21.000Z</lastmod>
     <data>
         <display>
-        <title>Hexo study</title>
-        <pubTime>2016-10-02T04:39:16.000Z</pubTime>
+        <title>Hexo博客主题nexT，Cnzz数据统计设置记录</title>
+        <pubTime>2016-10-02T09:42:55.000Z</pubTime>
         
         <tag>Hexo</tag>
          
         <tag>Study</tag>
+         
+        <tag>Cnzz</tag>
+         
+        <tag>nexT</tag>
          
          
            
@@ -133,7 +133,7 @@
               <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
           
              
-              <breadCrumb title="Hexo" url="https://toxufe.github.io/categories/Study/Hexo/"/>
+              <breadCrumb title="Cnzz" url="https://toxufe.github.io/categories/Study/Cnzz/"/>
           
         </display>
     </data>
