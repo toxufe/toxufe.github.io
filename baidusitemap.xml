@@ -4,6 +4,35 @@
 
     
   <url>
+    <loc>https://toxufe.github.io/20161002/cnzz-set/</loc>
+    <lastmod>2016-10-02T14:03:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo博客主题nexT，Cnzz数据统计设置记录</title>
+        <pubTime>2016-10-02T09:42:55.000Z</pubTime>
+        
+        <tag>Study</tag>
+         
+        <tag>Hexo</tag>
+         
+        <tag>Cnzz</tag>
+         
+        <tag>nexT</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
+          
+             
+              <breadCrumb title="Cnzz" url="https://toxufe.github.io/categories/Study/Cnzz/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://toxufe.github.io/20161002/hello-world/</loc>
     <lastmod>2016-10-02T13:52:32.000Z</lastmod>
     <data>
@@ -54,37 +83,4 @@
     </url>
 
     
-    
-  <url>
-    <loc>https://toxufe.github.io/20161002/cnzz-set/</loc>
-    <lastmod>2016-10-02T13:00:00.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo博客主题nexT，Cnzz数据统计设置记录</title>
-        <pubTime>2016-10-02T09:42:55.000Z</pubTime>
-        
-        <tag>Study</tag>
-         
-        <tag>Hexo</tag>
-         
-        <tag>Cnzz</tag>
-         
-        <tag>nexT</tag>
-         
-         
-           
-             
-              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
-          
-             
-              <breadCrumb title="Cnzz" url="https://toxufe.github.io/categories/Study/Cnzz/"/>
-          
-             
-              <breadCrumb title="Hexo" url="https://toxufe.github.io/categories/Study/Cnzz/Hexo/"/>
-          
-             
-        </display>
-    </data>
-    </url>
-
 </urlset>

@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>https://toxufe.github.io/20161002/cnzz-set/</loc>
+        <lastmod>2016-10-02T14:03:33.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://toxufe.github.io/20161002/hello-world/</loc>
         <lastmod>2016-10-02T13:52:32.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -17,14 +25,6 @@
     <url>
         <loc>https://toxufe.github.io/20161002/add-sitemap/</loc>
         <lastmod>2016-10-02T13:36:43.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://toxufe.github.io/20161002/cnzz-set/</loc>
-        <lastmod>2016-10-02T13:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
