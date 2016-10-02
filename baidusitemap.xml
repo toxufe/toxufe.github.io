@@ -5,7 +5,7 @@
     
     
   <url>
-    <loc>http://yoursite.com/20161002/cnzz-set/</loc>
+    <loc>https://toxufe.github.io/20161002/cnzz-set/</loc>
     <lastmod>2016-10-02T13:00:00.000Z</lastmod>
     <data>
         <display>
@@ -23,13 +23,13 @@
          
            
              
-              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
+              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
           
              
-              <breadCrumb title="Cnzz" url="http://yoursite.com/categories/Study/Cnzz/"/>
+              <breadCrumb title="Cnzz" url="https://toxufe.github.io/categories/Study/Cnzz/"/>
           
              
-              <breadCrumb title="Hexo" url="http://yoursite.com/categories/Study/Cnzz/Hexo/"/>
+              <breadCrumb title="Hexo" url="https://toxufe.github.io/categories/Study/Cnzz/Hexo/"/>
           
              
         </display>
@@ -38,7 +38,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/20161002/hello-world/</loc>
+    <loc>https://toxufe.github.io/20161002/hello-world/</loc>
     <lastmod>2016-10-02T12:58:52.000Z</lastmod>
     <data>
         <display>
@@ -52,10 +52,10 @@
          
            
              
-              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
+              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
           
              
-              <breadCrumb title="Hexo" url="http://yoursite.com/categories/Study/Hexo/"/>
+              <breadCrumb title="Hexo" url="https://toxufe.github.io/categories/Study/Hexo/"/>
           
         </display>
     </data>
