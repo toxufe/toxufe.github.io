@@ -3,6 +3,31 @@
 
 
     
+  <url>
+    <loc>https://toxufe.github.io/20161002/hello-world/</loc>
+    <lastmod>2016-10-02T13:52:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo study</title>
+        <pubTime>2016-10-02T04:39:16.000Z</pubTime>
+        
+        <tag>Study</tag>
+         
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
+          
+             
+              <breadCrumb title="Hexo" url="https://toxufe.github.io/categories/Study/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>https://toxufe.github.io/20161002/add-sitemap/</loc>
@@ -58,31 +83,6 @@
               <breadCrumb title="Hexo" url="https://toxufe.github.io/categories/Study/Cnzz/Hexo/"/>
           
              
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://toxufe.github.io/20161002/hello-world/</loc>
-    <lastmod>2016-10-02T12:58:52.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo study</title>
-        <pubTime>2016-10-02T04:39:16.000Z</pubTime>
-        
-        <tag>Study</tag>
-         
-        <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
-          
-             
-              <breadCrumb title="Hexo" url="https://toxufe.github.io/categories/Study/Hexo/"/>
-          
         </display>
     </data>
     </url>
