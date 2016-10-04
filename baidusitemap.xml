@@ -4,7 +4,7 @@
 
     
   <url>
-    <loc>https://toxufe.github.io/posts/41943/</loc>
+    <loc>http://yoursite.com/posts/41943/</loc>
     <lastmod>2016-10-02T17:10:16.000Z</lastmod>
     <data>
         <display>
@@ -22,10 +22,10 @@
          
            
              
-              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
+              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
           
              
-              <breadCrumb title="nexT" url="https://toxufe.github.io/categories/Study/nexT/"/>
+              <breadCrumb title="nexT" url="http://yoursite.com/categories/Study/nexT/"/>
           
         </display>
     </data>
@@ -33,7 +33,7 @@
 
     
   <url>
-    <loc>https://toxufe.github.io/posts/21445/</loc>
+    <loc>http://yoursite.com/posts/21445/</loc>
     <lastmod>2016-10-02T15:42:37.000Z</lastmod>
     <data>
         <display>
@@ -51,10 +51,10 @@
          
            
              
-              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
+              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
           
              
-              <breadCrumb title="短连接" url="https://toxufe.github.io/categories/Study/%E7%9F%AD%E8%BF%9E%E6%8E%A5/"/>
+              <breadCrumb title="短连接" url="http://yoursite.com/categories/Study/%E7%9F%AD%E8%BF%9E%E6%8E%A5/"/>
           
         </display>
     </data>
@@ -62,32 +62,7 @@
 
     
   <url>
-    <loc>https://toxufe.github.io/posts/36126/</loc>
-    <lastmod>2016-10-02T15:25:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo博客如何添加百度sitemap</title>
-        <pubTime>2016-10-02T13:28:15.000Z</pubTime>
-        
-        <tag>Study</tag>
-         
-        <tag>Sitemap</tag>
-         
-         
-           
-             
-              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
-          
-             
-              <breadCrumb title="Sitemap" url="https://toxufe.github.io/categories/Study/Sitemap/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://toxufe.github.io/posts/5005/</loc>
+    <loc>http://yoursite.com/posts/5005/</loc>
     <lastmod>2016-10-02T15:25:21.000Z</lastmod>
     <data>
         <display>
@@ -105,10 +80,10 @@
          
            
              
-              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
+              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
           
              
-              <breadCrumb title="Cnzz" url="https://toxufe.github.io/categories/Study/Cnzz/"/>
+              <breadCrumb title="Cnzz" url="http://yoursite.com/categories/Study/Cnzz/"/>
           
         </display>
     </data>
@@ -116,7 +91,32 @@
 
     
   <url>
-    <loc>https://toxufe.github.io/posts/19310/</loc>
+    <loc>http://yoursite.com/posts/36126/</loc>
+    <lastmod>2016-10-02T15:25:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo博客如何添加百度sitemap</title>
+        <pubTime>2016-10-02T13:28:15.000Z</pubTime>
+        
+        <tag>Study</tag>
+         
+        <tag>Sitemap</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
+          
+             
+              <breadCrumb title="Sitemap" url="http://yoursite.com/categories/Study/Sitemap/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/posts/19310/</loc>
     <lastmod>2016-10-02T15:25:21.000Z</lastmod>
     <data>
         <display>
@@ -130,10 +130,10 @@
          
            
              
-              <breadCrumb title="Study" url="https://toxufe.github.io/categories/Study/"/>
+              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
           
              
-              <breadCrumb title="Hexo" url="https://toxufe.github.io/categories/Study/Hexo/"/>
+              <breadCrumb title="Hexo" url="http://yoursite.com/categories/Study/Hexo/"/>
           
         </display>
     </data>
